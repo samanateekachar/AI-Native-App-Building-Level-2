@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A smart weather dashboard featuring real-time meteorological insight, AI-powered travel recommendations, activity safety analysis, and hyper-local gardening and lifestyle advice powered by Gemini.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
